@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="colorPrimary">#b39ddb</color>
+    <color name="colorPrimaryDark">#836fa9</color>
+    <color name="colorAccent">#FF4081</color>
+
+    <color name="blue_grey_500">#607D8B</color>
+    <color name="blue_grey_600">#546E7A</color>
+    <color name="blue_grey_700">#455A64</color>
+    <color name="blue_grey_800">#37474F</color>
+    <color name="blue_grey_900">#263238</color>
+
+    <color name="login_bg_light">#00bcd4</color>
+    <color name="login_bg_dark">#008ba3</color>
+    <color name="login_bg_lightest">#e6ceff</color>
+    <color name="login_bg_lighter">#b085f5</color>
+
+    <color name="white">#FFFFFF</color>
+    <color name="black">#000000</color>
+
+</resources>
